@@ -1,0 +1,18 @@
+fastapi==0.109.2
+uvicorn
+python-multipart
+pillow
+jinja2
+pydantic==2.6.1
+
+# Machine Learning and NLP
+ultralytics
+faiss-cpu
+sentence-transformers
+pypdf
+
+# Utilities
+python-dotenv
+
+# Specific to your project
+langchain-groq==0.1.9
