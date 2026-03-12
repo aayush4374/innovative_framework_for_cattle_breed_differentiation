@@ -79,8 +79,8 @@ Upload a cattle image and the system will predict the breed.
 * Docker
 
 ## Author
-Aayush Singhal <br>
-Ayush Gupta <br>
-Anoop Prakash Yadav <br>
-Ankit Kumar <br>
+* Aayush Singhal <br>
+* Ayush Gupta <br>
+* Anoop Prakash Yadav <br>
+* Ankit Kumar <br>
 
