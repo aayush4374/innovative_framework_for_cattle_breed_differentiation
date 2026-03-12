@@ -78,6 +78,3 @@ Upload a cattle image and the system will predict the breed.
 * Web Framework
 * Docker
 
-## Author
-
-Aayush Singhal
